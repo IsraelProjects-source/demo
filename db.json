@@ -27,16 +27,16 @@
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nam laborum perferendis. Numquam, maiores qui nobis natus iusto dolor facere alias dicta voluptates ut quia libero facilis, delectus vitae soluta!",
       "images": [
         {
-          "image": "https://via.placeholder.com/600/24f355",
-          "thumbnail": "https://via.placeholder.com/150/24f355"
+          "image": "https://images-na.ssl-images-amazon.com/images/I/61%2BO4yadqTL._AC_SX522_.jpg",
+          "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71HVof4jlsL._AC_SX425_.jpg"
         },
         {
-          "image": "https://via.placeholder.com/600/d32776",
-          "thumbnail": "https://via.placeholder.com/150/d32776"
+          "image": "https://images-na.ssl-images-amazon.com/images/I/61%2BO4yadqTL._AC_SX522_.jpg",
+          "thumbnail": "hhttps://http2.mlstatic.com/D_NQ_NP_720034-MLA43701466848_102020-O.jpg"
         },
         {
-          "image": "https://via.placeholder.com/600/f66b97",
-          "thumbnail": "https://via.placeholder.com/150/f66b97"
+          "image": "https://images-na.ssl-images-amazon.com/images/I/61dJagf%2BXnL._AC_SX425_.jpg",
+          "thumbnail": "https://www.fandeal.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/_/1_12_142.jpg"
         }
       ],
       "quantity": 1,
@@ -50,8 +50,8 @@
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nam laborum perferendis. Numquam, maiores qui nobis natus iusto dolor facere alias dicta voluptates ut quia libero facilis, delectus vitae soluta!",
       "images": [
         {
-          "image": "https://via.placeholder.com/600/56a8c",
-          "thumbnail": "https://via.placeholder.com/150/56a8c"
+          "image": "https://http2.mlstatic.com/D_NQ_NP_782354-MLA42095186897_062020-O.jpg",
+          "thumbnail": "https://www.steren.com.mx/media/catalog/product/cache/b69086f136192bea7a4d681a8eaf533d/image/209864769/audifonos-bluetooth-con-bateria-de-hasta-24-h.jpg"
         }
       ],
       "quantity": 1,
@@ -60,18 +60,18 @@
     },
     {
       "id": "4",
-      "name": "Luces LED",
+      "name": "Light LED",
       "price": 250000,
       "stock": 1,
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nam laborum perferendis. Numquam, maiores qui nobis natus iusto dolor facere alias dicta voluptates ut quia libero facilis, delectus vitae soluta!",
       "images": [
         {
-          "image": "https://via.placeholder.com/600/b0f7cc",
-          "thumbnail": "https://via.placeholder.com/150/b0f7cc"
+          "image": "https://images-na.ssl-images-amazon.com/images/I/714wIaA0OEL._AC_SL1500_.jpg",
+          "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_885401-MCO30051252038_042019-O.jpg"
         },
         {
-          "image": "https://via.placeholder.com/600/54176f",
-          "thumbnail": "https://via.placeholder.com/150/54176f"
+          "image": "https://images-na.ssl-images-amazon.com/images/I/71YdLo5jKEL._AC_SX466_.jpg",
+          "thumbnail": "https://ae01.alicdn.com/kf/H7732020c70a840d99f246f743f569195N/Tira-de-luces-LED-inteligente-RGBW-Kit-Compatible-con-Alexa-y-asistente-de-Google-controlador-WiFi.jpg_Q90.jpg_.webp"
         }
       ],
       "quantity": 1
@@ -92,7 +92,9 @@
           "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-pro-magsafe-202104?wid=1380&hei=904&fmt=jpeg&qlt=80&.v=1617147706000"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "new": true,
+      "offer": true
     },
     {
       "id": "6",
@@ -110,7 +112,9 @@
           "thumbnail": "https://www.wfla.com/wp-content/uploads/sites/71/2021/03/lil-nas-x-satan-shoes.jpg?w=1843&h=1037&crop=1"
         }
       ],
-      "quantity": 1
+      "quantity": 1,
+      "new": true,
+      "offer": true
     }
   ]
 }
